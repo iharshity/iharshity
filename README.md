@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio website.<br>👯 I’m looking to collaborate on designing websites.<br>🌱 I’m currently learning web development.<br>💬 Ask me about website related stuff.<br>
+👯 I’m looking to collaborate on designing websites.<br>🌱 I’m currently learning web development.<br>💬 Ask me about website related stuff.<br>
 
 
 ## 🌐 Socials:
