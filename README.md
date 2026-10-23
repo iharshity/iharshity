@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
 <h3 align="center">Passionate Full-Stack Developer & Problem Solver</h3>
+<p align="center"><b>LinkedIn</b>b> | <b>Email: iharshity@gmail.com</b>b></p>p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full+Stack+Developer;C%2B%2B+%26+JavaScript+Enthusiast;LeetCode+1600%2B+%7C+300%2B+Solved" alt="Typing SVG" />
