@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats & ### 📬 Connect with MeStreak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iharshity&show_icons=true&theme=radial" alt="Harshit's GitHub Stats" width="48%" />
